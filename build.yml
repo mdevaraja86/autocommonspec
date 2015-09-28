@@ -8,7 +8,7 @@ bbver: 4.6
 applog: rholog.txt
 iphone:
   configuration: Release
-  sdk: "iphoneos8.3"
+  sdk: "iphoneos8.2"
   provisionprofile:
   codesignidentity: "iPhone Developer"
   entitlements: 
